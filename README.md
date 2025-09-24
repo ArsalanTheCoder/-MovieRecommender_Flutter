@@ -27,7 +27,11 @@
 
 ## 🎥 Demo (click to watch)
 - Full project video (click):  
-  https://github.com/user-attachments/assets/edb19a33-d414-4705-a33e-4c2e617ac7a9
+
+https://github.com/user-attachments/assets/d12fbf63-685a-4202-adc5-c1dfab860125
+
+
+  
 
 <p align="center">
   <!-- Video thumbnail links to full video -->
