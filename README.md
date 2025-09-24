@@ -5,7 +5,7 @@
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)]()
 
 <p align="center">
-  <!-- Banner: clickable (opens your uploaded video/attachment page) -->
+  <!-- Banner (single instance) -->
   <a href="https://github.com/user-attachments/assets/edb19a33-d414-4705-a33e-4c2e617ac7a9" target="_blank" rel="noopener">
     <img alt="MovieMatch AI Banner" src="https://github.com/user-attachments/assets/b583fcc7-80dd-4e01-a697-9d5177f00b2d" width="1000" />
   </a>
@@ -26,22 +26,23 @@
 ---
 
 ## 🎥 Demo (click to watch)
-- **Full project video** (click the link to open the uploaded video page)  
+- **Full project video** (click the link to open the uploaded video page)
+  
   https://github.com/user-attachments/assets/d12fbf63-685a-4202-adc5-c1dfab860125
 
 <p align="center">
-  <!-- Clickable video thumbnail (click opens your uploaded video page) -->
-  <a href="https://github.com/user-attachments/assets/edb19a33-d414-4705-a33e-4c2e617ac7a9" target="_blank" rel="noopener">
+  <!-- Clickable video thumbnail -->
+  <a href="https://github.com/user-attachments/assets/d12fbf63-685a-4202-adc5-c1dfab860125" target="_blank" rel="noopener">
     <img src="https://github.com/user-attachments/assets/6a99f69b-37cb-43c1-8ce2-04ff7efab782" alt="MovieRecommender Demo Thumbnail" width="720" />
   </a>
 </p>
 
-> **Note:** the URLs above point to GitHub attachment pages. Clicking will open the page where the video is hosted. See the **Video embedding options** section below if you want inline playback directly inside the README.
+> **Tip:** If you want inline playback inside README, add the MP4 to the repo and use the raw.githubusercontent.com URL with a `<video>` tag (see *Video embedding options* below).
 
 ---
 
 ## 📸 Composite Screenshot (Fiverr-style)
-One single composite image to showcase the main flows (Home → Search → Detail → Recommendation).
+A single composite image showcasing main flows (Home → Search → Detail → Recommendation).
 
 <p align="center">
   <img src="screenshots/composite_screenshots.png" alt="Composite screenshots" width="900" />
@@ -55,15 +56,15 @@ One single composite image to showcase the main flows (Home → Search → Detai
 - Trailer playback (YouTube / embedded)  
 - Detailed movie pages (credits, metadata)  
 - On-device recommender (TF-IDF → Cosine Similarity)  
-- Lightweight: pulls metadata from TMDB (no huge local dataset required)
+- Lightweight: pulls metadata from TMDB (no huge local DB required)
 
 ---
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)  
 - **Data:** TMDB API (metadata & trailer links)  
-- **Recommender:** TF-IDF + Cosine Similarity (precomputed or light on-device model)  
-- **Extras:** Video player plugin, local caching, optional `.tflite` for small models
+- **Recommender:** TF-IDF + Cosine Similarity (precomputed or on-device)  
+- **Extras:** video player plugin, local caching, optional `.tflite` for small models
 
 ---
 
