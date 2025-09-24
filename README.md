@@ -4,13 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)]()
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)]()
 
-<p align="center">
-  <!-- Banner (single instance) -->
-  <a href="https://github.com/user-attachments/assets/edb19a33-d414-4705-a33e-4c2e617ac7a9" target="_blank" rel="noopener">
-    <img alt="MovieMatch AI Banner" src="https://github.com/user-attachments/assets/b583fcc7-80dd-4e01-a697-9d5177f00b2d" width="1000" />
-  </a>
-</p>
-
 > **Discover movies you’ll love** — browse TMDB categories, watch trailers, and get ML-powered movie recommendations (TF-IDF → Cosine Similarity).  
 > Beautiful Flutter UI • On-device recommendations • Smooth trailer playback 🎬✨
 
@@ -30,22 +23,14 @@
   
   https://github.com/user-attachments/assets/d12fbf63-685a-4202-adc5-c1dfab860125
 
+## 📸 Composite Screenshot (Fiverr-style)
+A single composite image showcasing main flows (Home → Search → Detail → Recommendation).
+
 <p align="center">
   <!-- Clickable video thumbnail -->
   <a href="https://github.com/user-attachments/assets/d12fbf63-685a-4202-adc5-c1dfab860125" target="_blank" rel="noopener">
     <img src="https://github.com/user-attachments/assets/6a99f69b-37cb-43c1-8ce2-04ff7efab782" alt="MovieRecommender Demo Thumbnail" width="720" />
   </a>
-</p>
-
-> **Tip:** If you want inline playback inside README, add the MP4 to the repo and use the raw.githubusercontent.com URL with a `<video>` tag (see *Video embedding options* below).
-
----
-
-## 📸 Composite Screenshot (Fiverr-style)
-A single composite image showcasing main flows (Home → Search → Detail → Recommendation).
-
-<p align="center">
-  <img src="screenshots/composite_screenshots.png" alt="Composite screenshots" width="900" />
 </p>
 
 ---
