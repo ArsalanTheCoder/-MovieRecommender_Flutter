@@ -1,4 +1,4 @@
-<img width="1920" height="1005" alt="MovieMatch AI Banner" src="https://github.com/user-attachments/assets/b583fcc7-80dd-4e01-a697-9d5177f00b2d" /># 🎞️ MovieRecommender — Flutter Movie Recommendation System
+# 🎞️ MovieRecommender — Flutter Movie Recommendation System
 
 [![Flutter](https://img.shields.io/badge/Flutter-%20%F0%9F%9A%80-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)]()
@@ -24,7 +24,7 @@
 <p align="center">
   <img src="screenshots/demo.gif" alt="Demo GIF" width="720" />
 </p>
-https://github.com/user-attachments/assets/edb19a33-d414-4705-a33e-4c2e617ac7a9 # this is a complete video of my project
+https://github.com/user-attachments/assets/edb19a33-d414-4705-a33e-4c2e617ac7a9 
 
 
 
