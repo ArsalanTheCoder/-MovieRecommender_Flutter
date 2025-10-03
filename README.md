@@ -10,7 +10,6 @@
 ---
 
 
-
 ## 🔥 Highlights
 - 🔎 **Browse** curated categories: Trending, Sci-Fi, Bollywood, Action, Romance, and more.  
 - 🔍 **Search** TMDB’s global catalog — find any movie and watch trailers.  
